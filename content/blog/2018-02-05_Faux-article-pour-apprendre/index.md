@@ -2,5 +2,8 @@
 author: 'antho005'
 title: 'Faux article pour apprendre'
 category: 'Troll'
-cover: ./image (12).png
+cover: ./rocket.jpg
 ---
+# Faire vraiment caca
+
+![fusée](./rocket.jpg)
